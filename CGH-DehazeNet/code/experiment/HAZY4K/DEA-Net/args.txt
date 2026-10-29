@@ -1,9 +1,0 @@
-{
-  "exp_dir": "../experiment",
-  "dataset": "HAZY4K",
-  "val_dataset_dir": "../dataset/HAZY4K\\test",
-  "model_name": "DEA-Net",
-  "saved_infer_dir": "../experiment\\HAZY4K\\DEA-Net\\null",
-  "pre_trained_model": "null",
-  "save_infer_results": false
-}
