@@ -94,12 +94,12 @@ CUDA_VISIBLE_DEVICES=0 python train.py --epochs 300 --iters_per_epoch 5000 --fin
 ```
 
 ### Evaluation
-
-```
  Run the following script to evaluation the pre-trained model and save the inference results:
-
 ```
 cd code/
 python3 eval.py --dataset yourdataset --model_name CGH-DehazeNet --pre_trained_model your-weight.pth --save_infer_results
 
+
+
+```
 
